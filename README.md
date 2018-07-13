@@ -8,7 +8,6 @@ My approach to preparing the data was:
 
 I wanted to explore the data to see what the 5 most popular names were for boys and girls since the first year in the data.
 
-Impact of Influencers
 I chose to examine the impact of popular individuals/charcters on baby names as my next insight. The following are categories I used in my exploration:
 - Popular Athletes (Conor McGregor, Cassius Clay)
 - Popular Singers (Britney Spears, Elvis Presley)
